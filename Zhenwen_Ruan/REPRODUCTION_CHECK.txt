@@ -1,0 +1,5 @@
+Validated with Python 3.12.14
+Command: python run_all.py
+PASS: headline counts, profiles and every original numerical evidence file match.
+All 8 numerical evidence files matched their original SHA-256 hashes.
+Raw-source preparation was not rerun during packaging; original full files are not bundled.

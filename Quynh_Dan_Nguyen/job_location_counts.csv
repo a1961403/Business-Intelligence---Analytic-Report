@@ -1,0 +1,627 @@
+﻿job_location,postings
+"New York, NY",50
+"London, England, United Kingdom",42
+"Atlanta, GA",41
+"Boston, MA",38
+"Richmond, VA",34
+"Montreal, Quebec, Canada",28
+"Tallahassee, FL",27
+"Austin, TX",27
+"Chicago, IL",26
+"Dallas, TX",24
+"Sydney, New South Wales, Australia",23
+"Lansing, MI",23
+"Washington, DC",23
+"Charlotte, NC",22
+"Melbourne, Victoria, Australia",21
+"Albany, NY",19
+"McLean, VA",18
+"Canberra, Australian Capital Territory, Australia",17
+"Toronto, Ontario, Canada",17
+"Raleigh, NC",17
+"Vancouver, British Columbia, Canada",16
+"Orlando, FL",15
+"Irving, TX",15
+"Cary, NC",14
+"Hartford, CT",14
+"Houston, TX",14
+"Manchester, England, United Kingdom",13
+"Jersey City, NJ",13
+"Birmingham, England, United Kingdom",12
+"Tampa, FL",12
+"Cincinnati, OH",12
+"Miami, FL",12
+"Philadelphia, PA",12
+"Seattle, WA",12
+"Los Angeles, CA",12
+"Perth, Western Australia, Australia",11
+"Alameda, CA",11
+"Plano, TX",11
+"San Antonio, TX",11
+"San Diego, CA",11
+"Denver, CO",11
+"Brisbane, Queensland, Australia",10
+"Edmonton, Alberta, Canada",10
+"Indianapolis, IN",10
+United States,10
+"Alpharetta, GA",10
+"Jacksonville, FL",10
+"Columbus, OH",10
+"Glasgow, Scotland, United Kingdom",9
+"Omaha, NE",9
+"St Louis, MO",9
+"Columbia, SC",8
+"New York, United States",8
+"Bellevue, WA",8
+"Southampton, England, United Kingdom",7
+"Minneapolis, MN",7
+"Pittsburgh, PA",7
+"Sunnyvale, CA",7
+"San Francisco, CA",7
+"Bentonville, AR",7
+"Milwaukee, WI",7
+"Calgary, Alberta, Canada",6
+"St John’s, Newfoundland and Labrador, Canada",6
+"Ottawa, Ontario, Canada",6
+"Bristol, England, United Kingdom",6
+New York City Metropolitan Area,6
+"Herndon, VA",6
+"Phoenix, AZ",6
+"Detroit, MI",6
+"Boulder, CO",6
+"Tempe, AZ",6
+"Princeton, NJ",6
+"Boca Raton, FL",6
+"Millers Point, New South Wales, Australia",5
+"Cheltenham, England, United Kingdom",5
+"Camden, NJ",5
+"Des Moines, IA",5
+"Fort Lauderdale, FL",5
+"Quincy, MA",5
+"Rochester, NY",5
+"Trenton, NJ",5
+"Greenville, SC",5
+"Culver City, CA",5
+"New Jersey, United States",5
+"Ontario, CA",5
+"Ashburn, VA",5
+"Sacramento, CA",5
+"Manhattan, NY",5
+"Little Rock, AR",5
+"Louisville, KY",5
+"Newport Beach, CA",5
+"Troy, MI",5
+"Brooklyn, NY",5
+"Darwin, Northern Territory, Australia",4
+"Winnipeg, Manitoba, Canada",4
+"Victoria, British Columbia, Canada",4
+"Mississauga, Ontario, Canada",4
+"Surrey, British Columbia, Canada",4
+"North York, Ontario, Canada",4
+"Overland Park, KS",4
+"Racine, WI",4
+"Vancouver, WA",4
+"Annapolis, MD",4
+"Reston, VA",4
+"Salt Lake City, UT",4
+"Cleveland, OH",4
+"Springfield, MA",4
+"Madison, WI",4
+"St Petersburg, FL",4
+"Juno Beach, FL",4
+"Norfolk, VA",4
+"Berkeley Heights, NJ",4
+"Stamford, CT",4
+"Knoxville, TN",4
+"Owings Mills, MD",4
+"Bridgewater, NJ",4
+"Deerfield, IL",4
+"Portland, ME",4
+"Somerset, NJ",4
+"Irvine, CA",4
+"Edison, NJ",4
+"Corvallis, OR",4
+"Adelaide, South Australia, Australia",3
+"Halifax, Nova Scotia, Canada",3
+"Saskatchewan, Canada",3
+"Waterloo, Scotland, United Kingdom",3
+"Rochdale, England, United Kingdom",3
+"Milton Keynes, England, United Kingdom",3
+"Arlington, VA",3
+"Grand Rapids, MI",3
+"Malvern, PA",3
+"Olympia, WA",3
+"Eden Prairie, MN",3
+"Dayton, OH",3
+"Oakland, CA",3
+"New Orleans, LA",3
+"Lafayette, LA",3
+"Las Vegas, NV",3
+"Renton, WA",3
+"Nashville, TN",3
+"Hanover, MD",3
+"Brentwood, TN",3
+"Boise, ID",3
+"Piscataway, NJ",3
+"Pennsylvania, United States",3
+"Georgia, United States",3
+"Kansas City, MO",3
+"Memphis, TN",3
+"Frisco, TX",3
+"St Paul, MN",3
+"Durham, NC",3
+"Harrisburg, PA",3
+Greater Sydney Area,2
+"Burnaby, British Columbia, Canada",2
+"Richmond, British Columbia, Canada",2
+"Regina, Saskatchewan, Canada",2
+"Altrincham, England, United Kingdom",2
+"West End, England, United Kingdom",2
+"York, England, United Kingdom",2
+"Warrington, England, United Kingdom",2
+"Bury St. Edmunds, England, United Kingdom",2
+"Leatherhead, England, United Kingdom",2
+"London Area, United Kingdom",2
+"Harrow, England, United Kingdom",2
+"Gloucester, England, United Kingdom",2
+"Edinburgh, Scotland, United Kingdom",2
+"Cardiff, Wales, United Kingdom",2
+"West Midlands, England, United Kingdom",2
+"Hammersmith, England, United Kingdom",2
+"Livingston, Scotland, United Kingdom",2
+"Belfast, Northern Ireland, United Kingdom",2
+"City of London, England, United Kingdom",2
+"Liverpool, England, United Kingdom",2
+"Redditch, England, United Kingdom",2
+"Manchester Area, United Kingdom",2
+"Ann Arbor, MI",2
+"Minnesota, United States",2
+"Topeka, KS",2
+"Huntsville, AL",2
+"Michigan, United States",2
+"Lawrenceville, NJ",2
+"Lake Mary, FL",2
+"Rensselaer, NY",2
+"Redmond, WA",2
+"Radnor, PA",2
+"Lawrenceville, GA",2
+"Springfield, VA",2
+"California, United States",2
+"Urbandale, IA",2
+"State Farm, VA",2
+"Smithfield, RI",2
+"Portland, OR",2
+"Anchorage, AK",2
+"Newark, NJ",2
+"Montvale, NJ",2
+"Bronx, NY",2
+"Broomfield, CO",2
+"Clearwater, FL",2
+"Oklahoma City, OK",2
+"Fresno, CA",2
+"Baltimore, MD",2
+"Frederick, MD",2
+"New York County, NY",2
+"Birmingham, AL",2
+"Charleston, South Carolina Metropolitan Area",2
+"Titusville, NJ",2
+"Whippany, NJ",2
+"Deer Park, TX",2
+"Marysville, OH",2
+"Decatur, GA",2
+"Montgomery, AL",2
+"Lawrence, NJ",2
+"Burlington, VT",2
+"Torrance, CA",2
+"North Carolina, United States",2
+"Purchase, NY",2
+"Baton Rouge, LA",2
+"Schenectady, NY",2
+"Carlsbad, CA",2
+"South San Francisco, CA",2
+"Washington, United States",2
+"Johnston, RI",2
+"Franklin, TN",2
+"Honolulu, HI",2
+"Clarks Summit, PA",2
+"Clive, IA",2
+"Cupertino, CA",2
+"Virginia Beach, VA",2
+"Clayton, MO",2
+"Francesville, IN",2
+"Mason, OH",2
+"Franklin Lakes, NJ",2
+"Rancho Cordova, CA",2
+"Columbia, South Carolina Metropolitan Area",2
+"Waukesha, WI",2
+"Hopkins, MN",2
+"Doral, FL",2
+"Pleasanton, CA",2
+"Florham Park, NJ",2
+"Wichita, KS",2
+Oklahoma City Metropolitan Area,2
+"Jupiter, FL",2
+"Rockville, MD",2
+"Akron, OH",2
+"Lakewood, CO",2
+"Bothell, WA",2
+"Marietta, GA",2
+"Rosemont, IL",2
+"Roseville, CA",2
+"Thousand Oaks, CA",2
+"Schaumburg, IL",2
+"Somerville, MA",2
+"Lake County, IL",2
+"Cambridge, MA",2
+"Woburn, MA",2
+"Evansville, IN",2
+"Shaker Heights, OH",2
+"Normal, IL",2
+"Macquarie Park, New South Wales, Australia",1
+"Scoresby, Victoria, Australia",1
+"Rockingham, Western Australia, Australia",1
+"Logan, Queensland, Australia",1
+"North Ryde, New South Wales, Australia",1
+"Osborne Park, Western Australia, Australia",1
+"Parkes, New South Wales, Australia",1
+"Burwood East, Victoria, Australia",1
+"Gungahlin, Australian Capital Territory, Australia",1
+"Cremorne, Victoria, Australia",1
+"Darwin City, Northern Territory, Australia",1
+"Bedford Park, South Australia, Australia",1
+Greater Melbourne Area,1
+"Eastwood, South Australia, Australia",1
+"New South Wales, Australia",1
+"North Strathfield, New South Wales, Australia",1
+"Mascot, New South Wales, Australia",1
+"Toowong, Queensland, Australia",1
+"Milton, Queensland, Australia",1
+"Regents Park, New South Wales, Australia",1
+"Mirabel, Quebec, Canada",1
+"Etobicoke, Ontario, Canada",1
+"Ontario, Canada",1
+Canada,1
+Greater St. John's Metropolitan Area,1
+"North Vancouver, British Columbia, Canada",1
+"Quebec, Canada",1
+"Peterborough, Ontario, Canada",1
+"Saint John, New Brunswick, Canada",1
+Greater Ottawa Metropolitan Area,1
+"Greater Toronto Area, Canada",1
+"Hamilton, Ontario, Canada",1
+"Coquitlam, British Columbia, Canada",1
+"Markham, Ontario, Canada",1
+"Vernon, British Columbia, Canada",1
+"Québec, Quebec, Canada",1
+"Tijuana, Baja California, Mexico",1
+"Bootle, England, United Kingdom",1
+"Regents Park, England, United Kingdom",1
+"Wakefield, England, United Kingdom",1
+"Sunninghill, England, United Kingdom",1
+"Cambridge, England, United Kingdom",1
+"Evesham, England, United Kingdom",1
+"Elephant & Castle, England, United Kingdom",1
+"Leeds, England, United Kingdom",1
+"Wolverhampton, England, United Kingdom",1
+"Colchester, England, United Kingdom",1
+"Felixstowe, England, United Kingdom",1
+"Braiswick, England, United Kingdom",1
+"Barrow-in-Furness, England, United Kingdom",1
+"Larkfield, England, United Kingdom",1
+"Bath, England, United Kingdom",1
+"Woking, England, United Kingdom",1
+"Ipswich, England, United Kingdom",1
+"Leicestershire, England, United Kingdom",1
+"Runcorn, England, United Kingdom",1
+"Crawley, England, United Kingdom",1
+"Stevenage, England, United Kingdom",1
+"North Humberside, United Kingdom",1
+"Droitwich, England, United Kingdom",1
+"Stafford, England, United Kingdom",1
+"High Wycombe, England, United Kingdom",1
+"Walton-on-Thames, England, United Kingdom",1
+"Aberdeen, Scotland, United Kingdom",1
+"Ashford, England, United Kingdom",1
+"Solihull, England, United Kingdom",1
+"Wimbledon, England, United Kingdom",1
+"Brighton, England, United Kingdom",1
+"Guildford, England, United Kingdom",1
+"Brentford, England, United Kingdom",1
+"Farnborough, England, United Kingdom",1
+"Leicester, England, United Kingdom",1
+"Huddersfield, England, United Kingdom",1
+"Richmond, England, United Kingdom",1
+"Chertsey, England, United Kingdom",1
+"Fleet Street, England, United Kingdom",1
+"Chelmsford, England, United Kingdom",1
+"Chester, England, United Kingdom",1
+"County Down, Northern Ireland, United Kingdom",1
+"Coventry, England, United Kingdom",1
+"Whaplode, England, United Kingdom",1
+"Doncaster, England, United Kingdom",1
+"Portsmouth, England, United Kingdom",1
+"Salford, England, United Kingdom",1
+"Little London, England, United Kingdom",1
+"Maidenhead, England, United Kingdom",1
+"Barton upon Humber, England, United Kingdom",1
+"Swindon, England, United Kingdom",1
+"Paisley, Scotland, United Kingdom",1
+"Oxfordshire, England, United Kingdom",1
+"Swansea, Wales, United Kingdom",1
+"Hemel Hempstead, England, United Kingdom",1
+"Waltham, MA",1
+"Lakewood, NJ",1
+"West Des Moines, IA",1
+"Devens, MA",1
+"Riverwood Estates, IL",1
+"Jefferson City, MO",1
+"Tennessee, United States",1
+"Warner Robins, GA",1
+"San Ramon, CA",1
+Greater Minneapolis-St. Paul Area,1
+"Aurora, CO",1
+"Dimondale, MI",1
+"Chesapeake, VA",1
+"Darien, CT",1
+"Bowie, MD",1
+"Carmel, IN",1
+"Bristol, NY",1
+"Alexandria, VA",1
+"New Brunswick, NJ",1
+"Fairfax, VA",1
+Greater Cleveland,1
+"Middleboro, MA",1
+"Alpha, OH",1
+"Palm Beach Gardens, FL",1
+"Frankfort, KY",1
+"Temple, GA",1
+"Thief River Falls, MN",1
+"Mount Laurel, NJ",1
+"Richardson, TX",1
+"Romulus, MI",1
+"Dyersburg, TN",1
+"Sydney, ND",1
+"Wayne, PA",1
+Greater Boston,1
+"Foster City, CA",1
+"Coral Gables, FL",1
+"Everett, WA",1
+"Framingham, MA",1
+"Green Bay, WI",1
+"New Haven, CT",1
+"Coral Springs, FL",1
+"Melbourne, FL",1
+"West Sacramento, CA",1
+"Morningside, MD",1
+"Fraser, MI",1
+"Paoli, PA",1
+"Valley Stream, NY",1
+"Buffalo, NY",1
+"Lexington, MA",1
+"Charleston, SC",1
+"Duluth, GA",1
+"Fairburn, GA",1
+"Ohio, United States",1
+"Fredericksburg, VA",1
+"Greenwich, CT",1
+"Itasca, IL",1
+"Chantilly, VA",1
+"Dover, DE",1
+"King of Prussia, PA",1
+"Victor, NY",1
+"Dublin, OH",1
+"Mount Vernon, NY",1
+"Saco, ME",1
+"Fort Wayne, IN",1
+"Lincoln, NE",1
+"Glen Allen, VA",1
+"Shelton, CT",1
+"Wakefield, MA",1
+"Conshohocken, PA",1
+"Fort Worth, TX",1
+"Maryland Heights, MO",1
+"Stanford, CA",1
+"Cedar City, UT",1
+"Warwick, RI",1
+"Windsor, CT",1
+"Rockaway, NJ",1
+"Concord, NH",1
+"Palo Alto, CA",1
+"Berlin, NY",1
+"Clarksburg, WV",1
+"District of Columbia, United States",1
+"Marlborough, MA",1
+"Lexington, KY",1
+"Fremont, CA",1
+"Waterbury, VT",1
+"Collegeville, PA",1
+"New Castle, DE",1
+"Newark, DE",1
+"Queens, NY",1
+"Prince George's County, MD",1
+"Atlanta, TX",1
+"Oshkosh, WI",1
+"Obernburg, NY",1
+"Leawood, KS",1
+"San Juan, TX",1
+"Pella, IA",1
+"Paramus, NJ",1
+"Appleton, WI",1
+"Tacoma, WA",1
+"Brown Deer, WI",1
+"Sun Prairie Town, WI",1
+"Swiftwater, PA",1
+"Newton, MA",1
+"Richland, WA",1
+"Oklahoma, United States",1
+"Maple Grove, MN",1
+"Rocky Point, FL",1
+"Morristown, NJ",1
+"Costa Mesa, CA",1
+"Wallingford, CT",1
+"Mendota Heights, MN",1
+"Ogden, UT",1
+"Lake Forest, IL",1
+"Hauppauge, NY",1
+"Home, KS",1
+"Anaheim, CA",1
+"Diamond Bar, CA",1
+"Scottsdale, AZ",1
+"California, MD",1
+"Arkansas, WV",1
+"Melrose Park, IL",1
+"Chesterfield, MO",1
+"Fort Meade, MD",1
+"Stafford, VA",1
+"Worcester, MA",1
+"Westport, CT",1
+"Rome, GA",1
+"Springfield, IL",1
+"Falls Church, VA",1
+"Dorchester, MA",1
+"Rochester, MN",1
+"Winston-Salem, NC",1
+"Santa Ana, CA",1
+"Canada, KY",1
+"Clifton Forge, VA",1
+"Maryland, United States",1
+"Centennial, CO",1
+Brownsville Metropolitan Area,1
+"Neenah, WI",1
+"Bloomfield, CT",1
+"Wake County, NC",1
+"Hamilton, NJ",1
+"Fort Smith, AR",1
+"Yonkers, NY",1
+"Florida City, FL",1
+"Washington Highlands, MD",1
+"Copper Canyon, TX",1
+"Matthews, NC",1
+"Warren, NJ",1
+"Oakbrook Terrace, IL",1
+"Lowell, MA",1
+"Mission, KS",1
+"Elk River, MN",1
+"Santa Barbara, CA",1
+"Wixom, MI",1
+"Bonita Springs, FL",1
+"Cottage Grove, WI",1
+"Westborough, MA",1
+"Brooklyn Park, MN",1
+"Reading, PA",1
+"Bakersfield, CA",1
+"Long Beach, CA",1
+"Providence, VA",1
+"Salt Lake County, UT",1
+"Rancho Cucamonga, CA",1
+"Waterford, MI",1
+"Mansfield, TX",1
+"Everett, MA",1
+"Puyallup, WA",1
+"Glens Falls, NY",1
+"Lacey, WA",1
+"Cedar Rapids, IA",1
+"Traverse City, MI",1
+"Burlington, NC",1
+"Schertz, TX",1
+"Fort Myers, FL",1
+"Madison, IN",1
+"Greenville-Spartanburg-Anderson, South Carolina Area",1
+"Shanghai, VA",1
+"La Mirada, CA",1
+"Solon, OH",1
+"Calabasas, CA",1
+"Glendale, WI",1
+"Kennesaw, GA",1
+"Columbus, Ohio Metropolitan Area",1
+"Oak Park Heights, MN",1
+"Lenexa, KS",1
+"Parsippany, NJ",1
+"Upper Sandusky, OH",1
+"Vernon Hills, IL",1
+"White Plains, NY",1
+"North Myrtle Beach, SC",1
+"Moscow, PA",1
+"Kernersville, NC",1
+"Marcus Hook, PA",1
+"Alabama, United States",1
+"Haslet, TX",1
+"Jonesboro, IN",1
+"Okemos, MI",1
+"Arlington Heights, IL",1
+"Roy, UT",1
+"Dunmore, PA",1
+"Southington, CT",1
+"Hazlet, NJ",1
+San Francisco Bay Area,1
+"Las Vegas, NM",1
+"Goodyear, AZ",1
+"Hilliard, OH",1
+"Milford, OH",1
+"Midlothian, VA",1
+"Hart's Location, NH",1
+"Davis, CA",1
+"Dallas, OR",1
+"Newark, CA",1
+"Greenwood Village, CO",1
+"Hagerstown, MD",1
+"Providence, RI",1
+"Kansas City, KS",1
+"Crystal City, VA",1
+"Waukegan, IL",1
+"Illinois, United States",1
+"Inver Grove Heights, MN",1
+"Independence, OH",1
+"Riverwoods, IL",1
+"Elkhart County, IN",1
+"Rutherford, NJ",1
+"New Haven, IN",1
+"Albany, New York Metropolitan Area",1
+"Sandy, UT",1
+"Santa Clara, CA",1
+"Tucker, GA",1
+"Midland, TX",1
+"Greensboro, NC",1
+"Fargo, ND",1
+"North Chicago, IL",1
+"Iselin, NJ",1
+Los Angeles Metropolitan Area,1
+"Cape Girardeau County, MO",1
+"Mechanicsburg, PA",1
+"Wilmington, DE",1
+"Bedford, MA",1
+"Savannah, GA",1
+Washington DC-Baltimore Area,1
+"Nashua, NH",1
+"Hoboken, NJ",1
+"Lone Tree, CO",1
+"Murfreesboro, TN",1
+"Spring, TX",1
+"Springfield, MO",1
+"Glenmont, NY",1
+"Bethesda, MD",1
+"Lake Forest, CA",1
+"Melville, NY",1
+"Yocumtown, PA",1
+"Camarillo, CA",1
+"Missouri, United States",1
+"Mooresville, NC",1
+"Cincinnati metropolitan area, OH",1
+"Batavia, OH",1
+"Fairhaven, MA",1
+"Westerville, OH",1
+"Naples, FL",1
+"Danville, IL",1
+"New Bremen, OH",1
+"Lincolnshire, IL",1
+"St Louis Park, MN",1
+"Mountain View, CA",1
+"Berkshire County, MA",1
+"Charlottesville, VA",1
+"Southfield, MI",1
+"Dearborn, MI",1
+"Cranberry Township, PA",1
+"San Jose, CA",1
+"Riverside County, CA",1
+"Florida, United States",1
+"El Dorado Hills, CA",1

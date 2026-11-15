@@ -1,0 +1,47 @@
+{
+  "source_posting_rows": 1348454,
+  "source_skill_rows": 1296381,
+  "title_candidates": 4548,
+  "candidate_duplicate_keys": 0,
+  "candidates_with_skill_row": 4412,
+  "cohort_records": 1929,
+  "expected_A1_cohort": 1929,
+  "matches_A1_cohort": true,
+  "first_seen_min": "2024-01-12",
+  "first_seen_max": "2024-01-17",
+  "distinct_first_seen_values": 6,
+  "unique_skills_including_defining_skill": 12559,
+  "long_table_rows": 44308,
+  "matrix_rows": 1929,
+  "matrix_skill_columns": 12558,
+  "missing_by_source_field_in_cohort": {
+    "job_link": 0,
+    "last_processed_time": 0,
+    "got_summary": 0,
+    "got_ner": 0,
+    "is_being_worked": 0,
+    "job_title": 0,
+    "company": 0,
+    "job_location": 0,
+    "first_seen": 0,
+    "search_city": 0,
+    "search_country": 0,
+    "search_position": 0,
+    "job_level": 0,
+    "job_type": 0
+  },
+  "aliases": {
+    "communication skills": "communication",
+    "problem-solving": "problem solving",
+    "problemsolving": "problem solving",
+    "problem solving skills": "problem solving",
+    "ms excel": "excel",
+    "microsoft excel": "excel",
+    "microsoft power bi": "power bi",
+    "powerbi": "power bi"
+  },
+  "source_sha256": {
+    "linkedin_job_postings.csv": "db1ed84eefbafcded7771ad2de04eecd38ec815a726b3c61ae544d65d3707f46",
+    "job_skills.zip": "11ae7b513ca1b63d114b2fe8b88537d1a6083f3933c76aeeb17b153a855cdd4d"
+  }
+}
